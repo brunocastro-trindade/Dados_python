@@ -1,0 +1,5 @@
+data;loja;sku;quantidade;valor
+2024-05-10;Loja Curitiba;SKU-CAFE-250;2;19.90
+data-invalida;Loja Manaus;SKU-CAFE-250;1;12.00
+2026-12-11;Loja São Paulo;SKU-CAFE-450;5;8,50
+2025-05-18;Loja Rio;SKU-CAFE-250;6;12.00
