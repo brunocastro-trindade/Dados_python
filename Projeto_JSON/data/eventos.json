@@ -1,0 +1,6 @@
+[
+  {"event_id": "evt-01", "occurred_at": "2024-07-01T14:32:00-03:00", "user_id": "usr-1001", "name": "produto_visto"},
+  {"event_id": "evt-02", "occurred_at": "2024-07-01T14:35:10-03:00", "user_id": "usr-1001", "name": "carrinho_adicionado"},
+  {"event_id": "evt-03", "occurred_at": "2024-07-01T15:02:45-03:00", "user_id": "usr-1002", "name": "produto_visto"},
+  {"occurred_at": "2024-07-01T15:10:00-03:00", "user_id": "usr-1003", "name": "compra_finalizada"}
+]
